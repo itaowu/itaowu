@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hey, Cherry291 here! 👋
 
 ![](https://metrics.lecoq.io/itaowu?template=classic&config.timezone=Asia%2FShanghai)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
