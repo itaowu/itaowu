@@ -8,6 +8,39 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71.2%20thousand%20lines%20of%20code-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 45.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 11 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 21 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+🌆 Daytime                25 commits          ███████████░░░░░░░░░░░░░░   44.64 % 
+🌃 Evening                21 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Tuesday                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Wednesday                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Thursday                 8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Friday                   14 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Saturday                 6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Sunday                   8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -36,8 +69,12 @@ Kotlin                   2 repos             █████░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 28/05/2023 08:53:07 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/itaowu/itaowu/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/05/2023 08:56:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
