@@ -4,9 +4,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71.2%20thousand%20lines%20of%20code-blue)
 
@@ -49,16 +49,24 @@ Sunday                   9 commits           ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 hr 39 mins        ██████████████████████░░░   89.75 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Shell Script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           1 hr 50 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+module_d                 1 hr 10 mins        ████████████████░░░░░░░░░   63.13 % 
+app_tester               35 mins             ████████░░░░░░░░░░░░░░░░░   32.16 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+android                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -76,7 +84,7 @@ Kotlin                   2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itaowu/itaowu/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2023 08:59:55 UTC
+ Last Updated on 29/05/2023 00:31:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
