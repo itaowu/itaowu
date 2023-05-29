@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
 
@@ -84,7 +84,7 @@ Kotlin                   2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itaowu/itaowu/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2023 00:31:46 UTC
+ Last Updated on 29/05/2023 01:18:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
