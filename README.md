@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2036%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -34,7 +34,7 @@ Xcode                    0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 2023/06/07 15:48:26 UTC
+ Last Updated on 2023/06/07 16:12:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
