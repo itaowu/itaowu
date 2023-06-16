@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2050%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -32,7 +32,7 @@ Android Studio           5 hrs 28 mins       ████░░░░░░░�
 ```
 
 
- Last Updated on 2023/06/16 12:16:45 UTC
+ Last Updated on 2023/06/16 12:58:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
