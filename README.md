@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2036%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -33,7 +33,7 @@ VS Code                  2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 2023/06/24 15:48:22 UTC
+ Last Updated on 2023/06/24 16:12:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
