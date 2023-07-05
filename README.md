@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2036%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -34,7 +34,7 @@ IntelliJ                 1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 2023/07/05 10:48:39 UTC
+ Last Updated on 2023/07/05 11:09:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
