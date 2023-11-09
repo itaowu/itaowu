@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2030%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -27,7 +27,7 @@ Chrome                   35 hrs 40 mins      ███████████�
 ```
 
 
- Last Updated on 2023/11/09 11:48:20 UTC
+ Last Updated on 2023/11/09 12:17:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
