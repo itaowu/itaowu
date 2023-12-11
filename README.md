@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2055%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -20,15 +20,15 @@
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 1 min        █████████████████████████   99.90 % 
-Canva Design             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    16 hrs 27 mins      █████████████████████████   99.91 % 
+Canva Design             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Chrome                   14 hrs 1 min        █████████████████████████   100.00 % 
+Chrome                   16 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2023/12/11 16:13:05 UTC
+ Last Updated on 2023/12/11 16:48:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
